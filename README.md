@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Fontellas Laurito</h1>
-<h3 align="center">Im a Fullstack developer (but i like backend a little bit more) and if possible im just going to use Typescript in everything :p</h3>
+<h3 align="center">Im a Fullstack developer i love to work with typescript overall and if i love to make code that people can understand easily</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrofontellas&label=Profile%20views&color=0e75b6&style=flat" alt="leandrofontellas" /> </p>
 
