@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-fontellas-laurito-2048341b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-fontellas-laurito-2048341b9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leandro-fontellas-laurito-2048341b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-fontellas-laurito-2048341b9/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15235541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15235541" height="30" width="40" /></a>
 <a href="https://discord.gg/Leandro F. Laurito#7729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leandro F. Laurito#7729" height="30" width="40" /></a>
 </p>
